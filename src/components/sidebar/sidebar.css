@@ -1,0 +1,25 @@
+
+  
+
+.sidebar{
+    background-color: #34445e;
+    height: 940px;
+    width: 108%;
+}
+
+  .vertical-menu a {
+    background-color: #34465e;
+    color: white;
+    display: block; 
+    padding: 12px; 
+    text-decoration: none;
+    border: 1px solid black;
+    border-right: none;
+    border-top-left-radius: 30px;
+    text-align: center;
+  }
+  
+  .vertical-menu a:hover {
+    background-color:#2980b9;
+    transition: 0.3s;
+  }
